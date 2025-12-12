@@ -14,7 +14,7 @@ A stunning interactive particle animation that morphs text into beautiful partic
  Smooth Performance**: Optimized rendering with requestAnimationFrame
 
 ## Getting Started 
-git clone https://github.com/yourusername/morphing-particles.git
+git clone https://github.com/senoldogann/Morphing-Particles-.git
 
 # Navigate to project
 cd morphing-particles
