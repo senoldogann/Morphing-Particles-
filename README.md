@@ -4,7 +4,7 @@ A stunning interactive particle animation that morphs text into beautiful partic
 
 ![Demo](demo.gif)
 
-## ✨ Features
+## Features
 
  Interactive Particles**: Particles react to mouse movement with physics-based animations
  Text Morphing**: Type any text and watch particles form into letters
